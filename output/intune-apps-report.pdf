@@ -1,0 +1,92 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [ 3 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [ 0 0 612 792 ] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1047 >>
+stream
+BT
+/F1 10 Tf
+50 780 Td
+14 TL
+(Intune Applications And Devices Report) Tj
+T*
+(Generated \(UTC\): 2026-04-01 12:28:12Z) Tj
+T*
+(Application count: 2) Tj
+T*
+(Device count: 1) Tj
+T*
+() Tj
+T*
+(Applications) Tj
+T*
+(------------) Tj
+T*
+(1. 7-Zip 26.00 \(x64 edition\)) Tj
+T*
+(   Type: #microsoft.graph.win32LobApp) Tj
+T*
+(   Publisher: 7zip) Tj
+T*
+(   Created: 2026-03-30T13:35:22Z) Tj
+T*
+(   Id: d32580fa-0ede-4ca0-8734-bab54145aab5) Tj
+T*
+() Tj
+T*
+(2. Mozilla Thunderbird 148.0.1 x64 en-US) Tj
+T*
+(   Type: #microsoft.graph.win32LobApp) Tj
+T*
+(   Publisher: Mozilla) Tj
+T*
+(   Created: 2026-03-16T14:44:09Z) Tj
+T*
+(   Id: 4199b454-06af-479c-8491-17eaf91a1389) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Devices) Tj
+T*
+(-------) Tj
+T*
+(1. WINNAS) Tj
+T*
+(   OS: Windows 10.0.26200.8037) Tj
+T*
+(   Owner: <no owner type>) Tj
+T*
+(   Compliance: compliant) Tj
+T*
+(   Last sync: 2026-04-01T08:24:19Z) Tj
+T*
+(   User: bob@michaelwhitehouse.co.uk) Tj
+T*
+(   Id: f6b8df23-b0a5-4295-ba4e-f4258f4171e1) Tj
+T*
+() Tj
+ET
+
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000294 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1393
+%%EOF
